@@ -1,0 +1,77 @@
+{
+    "name": "Tinypass",
+    "description": "Viafoura powers live story coverage and real-time conversations, supported by market leading AI Moderation technology that enables you to capture the first-party audience engagement insights that drive conversions. Delivered with the Viafoura Promise, we are your partner in community b",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1589-tinypass.jpg",
+    "tags": [
+        "has api",
+        "have api",
+        "no api definition",
+        "payments",
+        "shopping",
+        "subscriptions",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tinypass\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Tinypass",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1589-tinypass.jpg",
+            "humanURL": "http:\/\/docs.piano.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tinypass-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.tinypass.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.tinypass.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/tinypass"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/piano-media"
+        },
+        {
+            "type": "Email",
+            "url": "jonas.rideout@piano.io"
+        },
+        {
+            "type": "Email",
+            "url": "support@piano.io"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/tinypass"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/tinypass"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/piano_io"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/docs.piano.io"
+        }
+    ]
+}
